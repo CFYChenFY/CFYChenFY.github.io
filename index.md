@@ -1,11 +1,11 @@
 <table border="0">
   <tr>
-    <td width="70%">
+    <td width="90%">
       <h1>陈富阳</h1>
       <p><b>重庆邮电大学通信与信息工程学院</b></p>
       <p><b>邮箱：chenfy101520@163.com</b></p>
     </td>
-    <td width="30%">
+    <td width="10%">
       <img src="/CFYChenFY.jpg" width="100%">
     </td>
   </tr>
